@@ -1,0 +1,16 @@
+WIDTH = 1280
+HEIGHT = 720
+
+TITLE = "Political Empire"
+
+FPS = 60
+
+BACKGROUND = (25,25,30)
+
+WHITE = (255,255,255)
+
+GREEN = (0,200,0)
+
+RED = (200,0,0)
+
+BLUE = (70,120,255)
